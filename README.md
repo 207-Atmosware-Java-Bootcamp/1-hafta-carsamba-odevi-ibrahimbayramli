@@ -13,6 +13,7 @@ https://github.com/hamitmizrak/Turkcell_FrontEnd/tree/master/css display:none;
 box-sizing: content-box; (defaulta) 
 box-sizing: border-box; 
 <hr>
+
 ## Arastirma Odevleri
 1. display:none;
     visibility:none arasındaki fark nedir ?
