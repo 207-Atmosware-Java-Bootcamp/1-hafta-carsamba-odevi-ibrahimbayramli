@@ -2,7 +2,7 @@
 https://github.com/hamitmizrak/Turkcell_FrontEnd/tree/master/css display:none; 
 - visibility:none arasındaki fark nedir ?   
 - pseudo class ile pseudo element nedir?  
-- group selectors : aşağıdaki kodlar ne yapıyor 
+- group selectors : aşağıdaki kodlar ne yapıyor<br>
     >\*  ==><br>
     >divp{}     ==><br> 
     >div p{}     ==><br>
@@ -34,6 +34,7 @@ box-sizing: border-box;
     box-sizing: border-box;
 
 <hr>
+
 ## Uygulama odevleri
 
 <p style="color:red"> 
